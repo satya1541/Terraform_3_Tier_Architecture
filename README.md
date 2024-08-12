@@ -1,1 +1,0 @@
-# Terraform_3_Tier_Architecture
